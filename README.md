@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/avbuild-veltrix/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/avbuild-veltrix/LeetCode/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/avbuild-veltrix/LeetCode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -39,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/avbuild-veltrix/LeetCode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/avbuild-veltrix/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
