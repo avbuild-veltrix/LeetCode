@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
+| [0867-transpose-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/avbuild-veltrix/LeetCode/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
