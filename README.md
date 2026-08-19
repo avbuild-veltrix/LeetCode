@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/avbuild-veltrix/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/avbuild-veltrix/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avbuild-veltrix/LeetCode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/avbuild-veltrix/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/avbuild-veltrix/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0189-rotate-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/avbuild-veltrix/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
