@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/avbuild-veltrix/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/avbuild-veltrix/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avbuild-veltrix/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/avbuild-veltrix/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
