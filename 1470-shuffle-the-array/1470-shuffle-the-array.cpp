@@ -6,5 +6,6 @@ public:
             vec.push_back(nums[i]);
             vec.push_back(nums[n]);
             n++;
-    }return vec;}
+    }
+    return vec;}
 };
