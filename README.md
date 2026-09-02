@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/avbuild-veltrix/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0867-transpose-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/avbuild-veltrix/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/avbuild-veltrix/LeetCode/tree/master/1672-richest-customer-wealth) |
