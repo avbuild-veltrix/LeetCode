@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/avbuild-veltrix/LeetCode/tree/master/0342-power-of-four) |
+| [1512-number-of-good-pairs](https://github.com/avbuild-veltrix/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/avbuild-veltrix/LeetCode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avbuild-veltrix/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/avbuild-veltrix/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/avbuild-veltrix/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/avbuild-veltrix/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/avbuild-veltrix/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/avbuild-veltrix/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/avbuild-veltrix/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/avbuild-veltrix/LeetCode/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/avbuild-veltrix/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
