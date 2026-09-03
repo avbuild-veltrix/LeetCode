@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/avbuild-veltrix/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0867-transpose-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avbuild-veltrix/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/avbuild-veltrix/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/avbuild-veltrix/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/avbuild-veltrix/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/avbuild-veltrix/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avbuild-veltrix/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
