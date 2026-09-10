@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/avbuild-veltrix/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/avbuild-veltrix/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2574-left-and-right-sum-differences](https://github.com/avbuild-veltrix/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/avbuild-veltrix/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/avbuild-veltrix/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/avbuild-veltrix/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Newton's Method
 |  |
 | ------- |
