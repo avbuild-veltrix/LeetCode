@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avbuild-veltrix/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/avbuild-veltrix/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/avbuild-veltrix/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avbuild-veltrix/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/avbuild-veltrix/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/avbuild-veltrix/LeetCode/tree/master/0349-intersection-of-two-arrays) |
