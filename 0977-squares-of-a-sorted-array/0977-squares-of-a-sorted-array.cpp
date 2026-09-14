@@ -5,7 +5,14 @@ public:
         for(int i = 0; i < n; i++){
             nums[i] = nums[i] * nums[i];
         }
-        sort(nums.begin(), nums.end());
+        // sort(nums.begin(), nums.end());
+        for(int i = 1; i < n; i++){
+            int j = i; 
+            while(j > 0 && nums[j] < nums[j-1]){
+                swap(nums[j], nums[j-1]);
+                j--;
+            }
+        }
         return nums;
     }
 };
