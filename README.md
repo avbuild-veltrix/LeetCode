@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/avbuild-veltrix/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/avbuild-veltrix/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/avbuild-veltrix/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/avbuild-veltrix/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avbuild-veltrix/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avbuild-veltrix/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/avbuild-veltrix/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/avbuild-veltrix/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avbuild-veltrix/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/avbuild-veltrix/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
