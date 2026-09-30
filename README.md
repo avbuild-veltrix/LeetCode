@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avbuild-veltrix/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/avbuild-veltrix/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/avbuild-veltrix/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/avbuild-veltrix/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0189-rotate-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/avbuild-veltrix/LeetCode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/avbuild-veltrix/LeetCode/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
