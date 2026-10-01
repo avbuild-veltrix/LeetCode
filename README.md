@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0020-valid-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/avbuild-veltrix/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/avbuild-veltrix/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## Binary Search
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avbuild-veltrix/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
