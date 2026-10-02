@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0022-generate-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/avbuild-veltrix/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/avbuild-veltrix/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## Binary Search
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/avbuild-veltrix/LeetCode/tree/master/0118-pascals-triangle) |
 ## Divide and Conquer
 |  |
@@ -212,4 +214,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/avbuild-veltrix/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
